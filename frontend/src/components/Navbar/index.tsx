@@ -10,7 +10,7 @@
             <a href="https://github.com/williamsartijose" target="_blank" rel="noreferrer">
                 <div className="dsmovie-contact-container">
                     <GithubIcon />
-                    <p className="dsmovie-contact-link">/devsuperior</p>
+                    <p className="dsmovie-contact-link">/williamsartijose</p>
                 </div>
             </a>
         </div>
