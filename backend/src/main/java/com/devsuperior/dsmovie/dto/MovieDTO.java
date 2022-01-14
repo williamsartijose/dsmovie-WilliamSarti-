@@ -28,7 +28,7 @@ public class MovieDTO {
 	public MovieDTO(Movie movie) {
 		
 		id = movie.getId();
-		title = movie.getImage();
+		title = movie.getTitle();
 		score = movie.getScore();
 		count = movie.getCount();
 		this.image = movie.getImage();
