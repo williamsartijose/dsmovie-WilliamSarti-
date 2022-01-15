@@ -1,14 +1,14 @@
 package com.devsuperior.dsmovie.dto;
 
 public class ScoreDTO {
-	
+
 	private Long MovieId;
 	private  String email;
 	private  Double  score;
-	
-	
+
+
 	public ScoreDTO() {
-		
+
 	}
 
 
@@ -41,5 +41,5 @@ public class ScoreDTO {
 		this.score = score;
 	}
 
-	
+
 }

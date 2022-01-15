@@ -1,11 +1,10 @@
-import {
-  BrowserRouter,
-  Routes,
-  Route
-} from "react-router-dom";
-import Listing from 'pages/Listing';
+import Navbar from 'components/Navbar';
 import Form from 'pages/Form';
-import Navbar from "components/Navbar";
+import Listing from 'pages/Listing';
+import {
+  BrowserRouter, Route, Routes
+} from "react-router-dom";
+
 
 function App() {
   return (

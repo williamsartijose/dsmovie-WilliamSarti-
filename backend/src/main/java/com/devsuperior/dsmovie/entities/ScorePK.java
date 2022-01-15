@@ -8,23 +8,23 @@ import javax.persistence.ManyToOne;
 
 @Embeddable
 public class ScorePK implements Serializable {
-	
-	
+
+
 	private static final long serialVersionUID = 1L;
 
 
 	@ManyToOne
 	@JoinColumn (name = "movie_id")
 	private Movie movie;
-	
-	
+
+
 	@ManyToOne
 	@JoinColumn (name = "user_id")
 	private User user;
-	
+
 	public  ScorePK() {
-		
-		
+
+
 	}
 
 	public Movie getMovie() {
@@ -42,6 +42,6 @@ public class ScorePK implements Serializable {
 	public void setUser(User user) {
 		this.user = user;
 	}
-	
+
 
 }
