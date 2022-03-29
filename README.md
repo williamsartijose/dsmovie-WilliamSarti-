@@ -20,10 +20,7 @@ Front end: (ReactJS, Html.Css,typescript,bootstrap,netlify,etc.)
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-- PostgreSQL.
--Postman
--Visual code
--Git
+
 # Tecnologias utilizadas
 ## Back end
 - Java
